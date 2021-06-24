@@ -1,0 +1,10 @@
+ipywidgets>=6.0
+jupyterlab~=3.0
+jupytext>=1.6.0,<1.11
+mdit-py-plugins==0.2.6  # See https://github.com/executablebooks/MyST-NB/issues/333#issuecomment-867020651
+myst-nb
+nbsphinx
+notebook
+sphinx
+sphinx-gallery
+sphinx-rtd-theme
